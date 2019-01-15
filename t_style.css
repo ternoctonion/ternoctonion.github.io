@@ -1,0 +1,11 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+canvas {
+    background: #ccc;
+}
+
+#MainHeader {
+    color: darkblue;
+}
