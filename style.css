@@ -13,6 +13,7 @@ canvas {
 .MainNav {
     background-color: #333;
     overflow: hidden;
+    position: relative;
 }
 
 .MainNav a{
