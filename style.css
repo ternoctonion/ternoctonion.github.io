@@ -2,6 +2,10 @@ body {
     font-family: 'Consolas', monospace;
 }
 
+section {
+    margin: 3% 20% 3% 20%;
+}
+
 canvas {
     background: #ccc;
 }
